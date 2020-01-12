@@ -4,8 +4,10 @@
 Μάθημα: ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ
 Ονοματεπώνυμο:ΚΑΡΑΜΠΙΚΑΣ ΑΛΕΞΑΝΔΡΟΣ
 Αριθμός Μητρώου: Π2018148
-Εργασία: 1
+
+Εργασία 1 - [set-up the main dependencies and demonstrate your base system]
 Εκτελέσιμο link: https://asciinema.org/a/289544
+
 Προφίλ στο github: https://github.com/p18kara5
 
 
@@ -32,15 +34,14 @@
         [Apple Watch Image] (https://github.com/p18kara5/gr/blob/gh-pages/images/smart-watch.jpg)
         [Apple Watch 160px Image] (https://github.com/p18kara5/gr/blob/gh-pages/images/smart-watch-thumb.jpg)
 
-
-ergasia 2
-asciinema link : https://asciinema.org/a/292865
-
-ergasia 3
-asciinema link : https://asciinema.org/a/292982
-
-ergasia 4 
-asciinema link  : https://asciinema.org/a/293217
-
 Παραπομπές
     [5] https://el.wikipedia.org/wiki/Apple_Watch
+
+Εργασία 2 - [get familiar with basic commands, reading documentation and editing files]
+Εκτελέσιμο link : https://asciinema.org/a/292865
+
+Εργασία 3 - [become productive with a todo list]
+Εκτελέσιμο link : https://asciinema.org/a/292982
+
+Εργασία 4 - [organise the terminal window into multiple areas]
+Εκτελέσιμο link  : https://asciinema.org/a/293217
