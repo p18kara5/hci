@@ -32,7 +32,15 @@
         [Apple Watch Image] (https://github.com/p18kara5/gr/blob/gh-pages/images/smart-watch.jpg)
         [Apple Watch 160px Image] (https://github.com/p18kara5/gr/blob/gh-pages/images/smart-watch-thumb.jpg)
 
-        
+
+ergasia 2
+asciinema link : https://asciinema.org/a/292865
+
+ergasia 3
+asciinema link : https://asciinema.org/a/292982
+
+ergasia 4 
+asciinema link  : https://asciinema.org/a/293217
 
 Παραπομπές
     [5] https://el.wikipedia.org/wiki/Apple_Watch
