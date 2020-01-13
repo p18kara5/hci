@@ -14,7 +14,7 @@
 Συμμετοχικό περιεχόμενο
 Α: Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.
 
-        [Airpods Table] (https://github.com/p18kara5/gr/blob/gh-pages/_gallery/airpods.md)
+        [Airpods Table](https://github.com/p18kara5/gr/blob/gh-pages/_gallery/airpods.md)
         [Airpods Image] (https://github.com/p18kara5/gr/blob/gh-pages/images/airpods.jpg)
         [Airpods 160px Image] (https://github.com/p18kara5/gr/blob/gh-pages/images/airpods-thumb.jpg)
 
